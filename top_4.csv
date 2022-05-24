@@ -1,1 +1,21 @@
 Region,Country,Item_Type,Sales_Channel,Order_Priority,Order_Date,Order_ID,Ship_Date,Units_Sold,Unit_Price,Unit_Cost
+Asia,Maldives,Beverages,Offline,C,28/07/17,932613790,13/08/17,10000,47.45,31.79
+Europe,Romania,Cosmetics,Online,M,16/03/16,707318103,03/05/16,10000,437.2,263.33
+Sub-Saharan Africa,Malawi,Baby Food,Online,L,25/01/17,802241694,09/02/17,10000,255.28,159.42
+Sub-Saharan Africa,Senegal,Cosmetics,Online,M,18/02/16,174407804,22/02/16,10000,437.2,263.33
+Europe,Moldova ,Fruits,Offline,H,19/12/15,130950438,23/12/15,10000,9.33,6.92
+Sub-Saharan Africa,Comoros,Cosmetics,Online,H,20/06/16,261322534,25/06/16,10000,437.2,263.33
+Sub-Saharan Africa,Ghana,Cereal,Offline,M,29/10/16,225874030,19/11/16,10000,205.7,117.11
+Australia and Oceania,Federated States of Micronesia,Vegetables,Offline,M,10/06/15,122941577,18/07/15,10000,154.06,90.93
+Europe,Norway,Baby Food,Offline,C,19/05/17,111519658,20/05/17,10000,255.28,159.42
+Europe,Iceland,Vegetables,Online,L,10/08/15,166398942,18/09/15,10000,154.06,90.93
+Asia,Maldives,Cosmetics,Online,H,11/04/16,340228402,22/05/16,10000,437.2,263.33
+Sub-Saharan Africa,South Sudan,Beverages,Online,H,19/07/17,154977023,21/07/17,10000,47.45,31.79
+Sub-Saharan Africa,Mauritius ,Fruits,Offline,H,24/11/15,498040139,05/12/15,10000,9.33,6.92
+Central America and the Caribbean,Saint Vincent and the Grenadines,Cosmetics,Offline,C,11/02/16,296771037,23/03/16,10000,437.2,263.33
+Central America and the Caribbean,El Salvador,Fruits,Online,M,02/10/15,332219541,27/10/15,10000,9.33,6.92
+Middle East and North Africa,Libya,Baby Food,Offline,C,12/02/17,557515227,28/03/17,10000,255.28,159.42
+Europe,Slovakia,Cosmetics,Online,M,29/04/16,995501935,19/05/16,10000,437.2,263.33
+Asia,China,Fruits,Offline,C,02/12/15,375676906,28/12/15,10000,9.33,6.92
+Middle East and North Africa,Jordan,Fruits,Offline,H,15/09/15,576946008,01/11/15,10000,9.33,6.92
+Asia,China,Baby Food,Online,M,19/03/17,968062293,20/03/17,10000,255.28,159.42
