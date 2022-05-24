@@ -1,0 +1,26 @@
+{
+  "itemId" : "_mnTRcNsmEeywCrnblRw14Q",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_ViOXINs3EeyoXZNtsXpVow",
+    "parameterList" : [ {
+      "id" : "_VidAods3EeyoXZNtsXpVow",
+      "name" : "mysqlShivam_Password"
+    }, {
+      "id" : "_VidAots3EeyoXZNtsXpVow",
+      "name" : "mysqlShivam_Database"
+    }, {
+      "id" : "_VidAo9s3EeyoXZNtsXpVow",
+      "name" : "mysqlShivam_Port"
+    }, {
+      "id" : "_VidApNs3EeyoXZNtsXpVow",
+      "name" : "mysqlShivam_Login"
+    }, {
+      "id" : "_VidApds3EeyoXZNtsXpVow",
+      "name" : "mysqlShivam_Server"
+    }, {
+      "id" : "_VidApts3EeyoXZNtsXpVow",
+      "name" : "mysqlShivam_AdditionalParams"
+    } ]
+  } ]
+}

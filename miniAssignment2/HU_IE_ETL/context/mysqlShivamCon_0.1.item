@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_VidAoNs3EeyoXZNtsXpVow" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_VidAods3EeyoXZNtsXpVow" comment="" name="mysqlShivam_Password" prompt="mysqlShivam_Password?" promptNeeded="false" repositoryContextId="" type="id_Password" value="enc:system.encryption.key.v1:0imgbvvfEIapVYdQajcP3/eL9E6M9dop30C12bJaT1ld0IPHU+qV"/>
+  <contextParameter xmi:id="_VidAots3EeyoXZNtsXpVow" comment="" name="mysqlShivam_Database" prompt="mysqlShivam_Database?" promptNeeded="false" repositoryContextId="" type="id_String" value="testetl"/>
+  <contextParameter xmi:id="_VidAo9s3EeyoXZNtsXpVow" comment="" name="mysqlShivam_Port" prompt="mysqlShivam_Port?" promptNeeded="false" repositoryContextId="" type="id_String" value="3306"/>
+  <contextParameter xmi:id="_VidApNs3EeyoXZNtsXpVow" comment="" name="mysqlShivam_Login" prompt="mysqlShivam_Login?" promptNeeded="false" repositoryContextId="" type="id_String" value="shivamdev"/>
+  <contextParameter xmi:id="_VidApds3EeyoXZNtsXpVow" comment="" name="mysqlShivam_Server" prompt="mysqlShivam_Server?" promptNeeded="false" repositoryContextId="" type="id_String" value="127.0.0.1"/>
+  <contextParameter xmi:id="_VidApts3EeyoXZNtsXpVow" comment="" name="mysqlShivam_AdditionalParams" prompt="mysqlShivam_AdditionalParams?" promptNeeded="false" repositoryContextId="" type="id_String" value="noDatetimeStringSync=true&amp;enabledTLSProtocols=TLSv1.2,TLSv1.1,TLSv1"/>
+</talendfile:ContextType>
